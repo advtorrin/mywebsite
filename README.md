@@ -1,4 +1,4 @@
-mywebsite
-=========
+torrin
+======
 
-photography website - Torrin Maynard
+photography website for torrin
