@@ -277,7 +277,7 @@ body {
 
 	width:100%;
 
-	background:url(images/divider_nav.png) repeat-x left bottom;
+	/*background:url(images/divider_nav.png) repeat-x left bottom;*/
 
 	padding-bottom:2px;
 
@@ -285,7 +285,7 @@ body {
 
 #navigation li {
 
-	background:url(images/divider_nav.png) repeat-x left top;
+	/*background:url(images/divider_nav.png) repeat-x left top;*/
 
 	display:block;
 
